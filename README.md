@@ -32,9 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/3-column-preview-card-component-solution-fQXpzfsWFT)
+- Live Site URL: [GitHub Pages](https://eduardo-vinicius-dos-sr.github.io/3-column-preview-card-component-solution/)
 ## My process
 
 ### Built with
@@ -45,7 +44,7 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Eduardo-Vinicius-dos-SR](https://www.frontendmentor.io/profile/Eduardo-Vinicius-dos-SR)
 
 
 # Front-end Style Guide
