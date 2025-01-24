@@ -1,0 +1,23 @@
+@media(max-width: 900px) {
+    .preview-card .card {
+        flex-direction: column;
+        margin: 50px auto;
+    }
+
+    .card .card-component {
+        padding: 50px;
+    }
+
+    .sedans {
+        border-radius: 10px 10px 0 0;
+    }
+
+    .luxury {
+        border-radius: 0 0 10px 10px;
+    }
+
+    .card .component-description {
+        margin-bottom: 30px;
+        font-size: 1.3rem;
+    }
+}
